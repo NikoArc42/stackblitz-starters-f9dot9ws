@@ -42,5 +42,5 @@ body{
 .skin{
   width: 125px;
   display: flex;
-  justify-self: center;
+  justify-self: left;
 }
